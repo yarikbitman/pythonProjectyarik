@@ -1,0 +1,5 @@
+num1=input("enter number 1: ")
+num2=input("enter number 2: ")
+num3=input("enter number 3: ")
+num4=int(str(num1+num2+num3))
+print(f"{num4} and {num4*2}")

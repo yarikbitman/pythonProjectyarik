@@ -1,0 +1,5 @@
+name=input("enter your name: ")
+y1=int(input("enter this year: "))
+y2=int(input("enter future year: "))
+aeg=int(input("enter your aeg: "))
+print(f"{name} will be {aeg+(y2-y1)} in {y2} ")
